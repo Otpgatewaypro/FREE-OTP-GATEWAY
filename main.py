@@ -1,4 +1,3 @@
-# Obfuscated By SimpleObfuscator
 
 import marshal
 import zlib
