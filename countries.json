@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Indonesia",
+    "code": "ID",
+    "prefix": "+62",
+    "flag": "🇮🇩",
+    "phone_length": 10
+  },
+  {
+    "id": 2,
+    "name": "United States",
+    "code": "US",
+    "prefix": "+1",
+    "flag": "🇺🇸",
+    "phone_length": 10
+  },
+  {
+    "id": 3,
+    "name": "United Kingdom",
+    "code": "GB",
+    "prefix": "+44",
+    "flag": "🇬🇧",
+    "phone_length": 10
+  },
+  {
+    "id": 4,
+    "name": "Singapore",
+    "code": "SG",
+    "prefix": "+65",
+    "flag": "🇸🇬",
+    "phone_length": 8
+  },
+  {
+    "id": 5,
+    "name": "Malaysia",
+    "code": "MY",
+    "prefix": "+60",
+    "flag": "🇲🇾",
+    "phone_length": 9
+  },
+  {
+    "id": 6,
+    "name": "Thailand",
+    "code": "TH",
+    "prefix": "+66",
+    "flag": "🇹🇭",
+    "phone_length": 9
+  },
+  {
+    "id": 7,
+    "name": "Philippines",
+    "code": "PH",
+    "prefix": "+63",
+    "flag": "🇵🇭",
+    "phone_length": 10
+  },
+  {
+    "id": 8,
+    "name": "Vietnam",
+    "code": "VN",
+    "prefix": "+84",
+    "flag": "🇻🇳",
+    "phone_length": 9
+  },
+  {
+    "id": 9,
+    "name": "Japan",
+    "code": "JP",
+    "prefix": "+81",
+    "flag": "🇯🇵",
+    "phone_length": 10
+  },
+  {
+    "id": 10,
+    "name": "South Korea",
+    "code": "KR",
+    "prefix": "+82",
+    "flag": "🇰🇷",
+    "phone_length": 10
+  },
+  {
+    "id": 11,
+    "name": "China",
+    "code": "CN",
+    "prefix": "+86",
+    "flag": "🇨🇳",
+    "phone_length": 11
+  },
+  {
+    "id": 12,
+    "name": "India",
+    "code": "IN",
+    "prefix": "+91",
+    "flag": "🇮🇳",
+    "phone_length": 10
+  },
+  {
+    "id": 13,
+    "name": "Australia",
+    "code": "AU",
+    "prefix": "+61",
+    "flag": "🇦🇺",
+    "phone_length": 9
+  },
+  {
+    "id": 14,
+    "name": "Canada",
+    "code": "CA",
+    "prefix": "+1",
+    "flag": "🇨🇦",
+    "phone_length": 10
+  },
+  {
+    "id": 15,
+    "name": "Germany",
+    "code": "DE",
+    "prefix": "+49",
+    "flag": "🇩🇪",
+    "phone_length": 11
+  },
+  {
+    "id": 16,
+    "name": "France",
+    "code": "FR",
+    "prefix": "+33",
+    "flag": "🇫🇷",
+    "phone_length": 9
+  },
+  {
+    "id": 17,
+    "name": "Italy",
+    "code": "IT",
+    "prefix": "+39",
+    "flag": "🇮🇹",
+    "phone_length": 10
+  },
+  {
+    "id": 18,
+    "name": "Spain",
+    "code": "ES",
+    "prefix": "+34",
+    "flag": "🇪🇸",
+    "phone_length": 9
+  },
+  {
+    "id": 19,
+    "name": "Brazil",
+    "code": "BR",
+    "prefix": "+55",
+    "flag": "🇧🇷",
+    "phone_length": 11
+  },
+  {
+    "id": 20,
+    "name": "Saudi Arabia",
+    "code": "SA",
+    "prefix": "+966",
+    "flag": "🇸🇦",
+    "phone_length": 9
+  }
+]
