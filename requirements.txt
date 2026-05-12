@@ -1,0 +1,5 @@
+pycryptodome
+jdatetime
+requests
+rich
+telfhk0
